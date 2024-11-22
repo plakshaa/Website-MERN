@@ -10,7 +10,7 @@ This is a React-based web application offering interactive topic-based assessmen
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
@@ -32,6 +32,47 @@ This is a React-based web application offering interactive topic-based assessmen
 ---
 
 ## Project Structure
+
+---
+
+## Setup and Installation
+
+### Prerequisites
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+   git clone <repository-url>
+Navigate to the project directory:
+bash
+Copy code
+cd <project-folder>
+Install dependencies:
+bash
+Copy code
+npm install
+Run the development server:
+bash
+Copy code
+npm start
+
+## Usage
+Access the app in your browser at http://localhost:3000.
+Assessments: View and interact with topic-based assessments.
+Courses: Browse additional courses and click "Know More" for details.
+
+## Contributing
+Contributions are welcome! To contribute:
+
+Fork the repository.
+Create a new branch (feature/your-feature).
+Commit your changes.
+Open a pull request.
 
 # React + Vite
 
